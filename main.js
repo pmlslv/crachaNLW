@@ -1,9 +1,9 @@
 const socialMedia = {
   github: 'pmlslv',
-  youtube: ' ',
-  facebook: ' ',
+  youtube: 'rocketseat',
+  facebook: 'rocketseat',
   instagram: 'pmlslv',
-  twitter: ' '
+  twitter: 'rocketseat'
 }
 
 function changeSocialMedia() {

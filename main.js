@@ -2,7 +2,7 @@ const socialMedia = {
   github: 'pmlslv',
   youtube: ' ',
   facebook: ' ',
-  instagram: ' ',
+  instagram: 'pmlslv',
   twitter: ' '
 }
 
